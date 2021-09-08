@@ -6,7 +6,7 @@
 
 # Hi guys 👋  I'm Sofyan Mahmoud
 
-- 🔭  I’m currently training at: [Najahnow](https://najahnow.net) company as a team leader and code reviewer
+- 🔭  I’m currently performing my compulsory military service
 - :heart: My favorite language: C++
 - 👯 open source contributor
 - 💬 Ask me about: anything, I know everything
