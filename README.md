@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2040A0&center=true&vCenter=true&width=600&lines=Building+production-grade+systems;Passionate+about+AI+agents+%26+MCP;Dedicated+problem+solver+%E2%80%94+Top+3%25+on+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2040A0&center=true&vCenter=true&width=600&lines=Dedicated+problem+solver+%E2%80%94+Top+3%25+on+LeetCode;Building+production-grade+systems;Passionate+about+AI+agents+%26+MCP" alt="Typing SVG" />
 </p>
 
 <p align="center">
